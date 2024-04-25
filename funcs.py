@@ -8,3 +8,14 @@ def summation(a, b):
     sum_ = a + b
     return sum_
 
+
+def subtraction(a, b):
+    """
+    Вычитает одно число из другого
+    :param a: первое число
+    :param b: второе число
+    :return: разница двух чисел
+    """
+    subtract = a - b
+    return subtract
+
